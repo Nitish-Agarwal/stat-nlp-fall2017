@@ -1,6 +1,6 @@
 ---
 name:
-   first: Abhinav
-   last: Gupta
-email: abhinavg@nyu.edu
-leaderboard: backpropper
+   first: Nitish
+   last: Agarwal
+email: na2197@nyu.edu
+leaderboard: Nitish
